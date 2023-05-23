@@ -16,8 +16,8 @@
 
 .navi__list {
   list-style: none;
-  margin: auto;
-  margin-right: 25vw;
+  margin: 0px 0px 0px auto;
+  margin-right: 55px;
   display: flex;
 }
 
@@ -29,9 +29,9 @@
 }
 
 .main__img {
-  width: 40vw;
+  width: 50vw;
   display: block;
-  margin:0px 0px 0px 40vw;
+  margin:0px 0px 0px auto;
   margin-top: 200px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .main__box {
-  width: 60vw;
+  width: 70vw;
   height: 20vh;
   background: #191970;
 }
